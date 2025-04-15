@@ -14,7 +14,7 @@ const Landing = () => {
         src="/hacking.mp4"
       />
         <div className="fixed inset-0 opacity-70 z-[-1] bg-black"></div>
-      <div className="w-full h-max mb-16 md:mb-40  items-center flex flex-col">
+      <div className="w-full h-max mb-16 md:mb-20  items-center flex flex-col">
         <pre className="text-center text-emerald-300 text-[4px] mb-4 sm:text-[6px] md:text-[10px] lg:text-base xl:text-xl leading-none font-mono z-10 relative">
           {`
                                                                                                                    
@@ -39,8 +39,7 @@ G:::::G        G::::Gu::::u    u::::u        s::::::s    h:::::h     h:::::hO:::
         </pre>
         <div className="border-2 border-emerald-300 md:py-4 mx-4 p-2 md:px-16 text-xs md:text-base text-emerald-300">
           <h1 className="">{`>>> GushOS Terminal online.  `}</h1>
-          <h1 className="text-emerald-300">{`>>> Type "help" to reveal available commands.  
-          Engage simulation to experience the Matrix protocol.`}</h1>
+          <h1 className="text-emerald-300">{`>>> Type "help" to navigate intergalactic tools and protocols.  Begin transformation protocol.`}</h1>
         </div>
       </div>
 
