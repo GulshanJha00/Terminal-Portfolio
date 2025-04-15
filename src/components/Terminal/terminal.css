@@ -1,0 +1,11 @@
+.animate{
+    animation: animate 0.2s linear ;
+}
+@keyframes animate {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 100%;
+    }
+}
